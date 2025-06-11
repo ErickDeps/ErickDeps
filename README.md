@@ -19,7 +19,7 @@ Soy un **Desarrollador Web Junior** con enfoque y experiencia en **Backend**. Me
 
 ## 🚀 Proyectos destacados
 
-- 🔧 [CleanMyPDFText](https://cleanmypdftext.com): Herramienta web para limpiar texto extraído de archivos PDF.
+- 🔧 Clean My PDF Text: Herramienta web para limpiar texto extraído de archivos PDF.
 - 🦷 CRM Dental *(en desarrollo)*: Sistema para gestión de pacientes, citas, pagos y recetas médicas para clínicas dentales.
 - 🏡 Inmuebles Web: Sitio web inmobiliario responsive hecho con HTML, CSS, JavaScript y PHP puro.
 
