@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Erick Deps
 
-Soy un **Desarrollador Web Junior** con enfoque en **PHP** y experiencia utilizando el framework **Laravel**. Me apasiona construir aplicaciones web útiles, ordenadas y escalables, aplicando buenas prácticas como la arquitectura **Modelo-Vista-Controlador (MVC)**.
+Soy un **Desarrollador Web Junior** con enfoque y experiencia en **Backend**. Me apasiona construir aplicaciones web útiles, ordenadas y escalables, aplicando buenas prácticas como la arquitectura **Modelo-Vista-Controlador (MVC)**.
 
 ## 🧰 Tecnologías y herramientas que utilizo
 
@@ -21,7 +21,7 @@ Soy un **Desarrollador Web Junior** con enfoque en **PHP** y experiencia utiliza
 
 - 🔧 [CleanMyPDFText](https://cleanmypdftext.com): Herramienta web para limpiar texto extraído de archivos PDF.
 - 🦷 CRM Dental *(en desarrollo)*: Sistema para gestión de pacientes, citas, pagos y recetas médicas para clínicas dentales.
-- 🏡 Bienes Acapulco: Sitio web inmobiliario responsive hecho con HTML, CSS y JavaScript puro.
+- 🏡 Inmuebles Web: Sitio web inmobiliario responsive hecho con HTML, CSS, JavaScript y PHP puro.
 
 ## 📚 En constante aprendizaje
 - Profundizando en `Laravel`, `componentes reutilizables` y `autenticación`
@@ -30,10 +30,10 @@ Soy un **Desarrollador Web Junior** con enfoque en **PHP** y experiencia utiliza
 
 ## 📫 ¿Cómo contactarme?
 
-- ✉️ Email: tuemail@ejemplo.com  
-- 🌐 Portafolio: [tuportafolio.com](https://tuportafolio.com) *(si tienes uno)*  
-- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- ✉️ Email: erickdepss@gmail.com  
+- 🌐 Portafolio: https://portfolio-erickdepss.netlify.app/ 
+- 💼 LinkedIn: www.linkedin.com/in/erickdepss
 
 ---
 
-> Gracias por pasar por mi perfil. ¡Estoy abierto a colaborar y seguir aprendiendo juntos! 🚀
+> Gracias por pasar por mi perfil. ¡Estoy abierto a colaborar y seguir aprendiendo juntos!
