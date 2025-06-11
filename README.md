@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy Erick Deps
 
 Soy un **Desarrollador Web Junior** con enfoque en **PHP** y experiencia utilizando el framework **Laravel**. Me apasiona construir aplicaciones web útiles, ordenadas y escalables, aplicando buenas prácticas como la arquitectura **Modelo-Vista-Controlador (MVC)**.
 
