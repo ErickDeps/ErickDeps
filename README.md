@@ -36,7 +36,7 @@ Soy un **Desarrollador Web Junior** con enfoque y experiencia en **Backend**. Me
 ## 📫 ¿Cómo contactarme?
 
 - ✉️ Email: erickdepss@gmail.com  
-- 🌐 Portafolio: https://portfolio-erickdepss.netlify.app/ 
+- 🌐 Portafolio: https://portfolio-erickdeps.netlify.app/ 
 - 💼 LinkedIn: www.linkedin.com/in/erickdepss
 
 ---
