@@ -10,7 +10,7 @@ Soy un **Desarrollador Web Junior** con enfoque y experiencia en **Backend**. Me
 ## 🧰 Tecnologías y herramientas que utilizo
 
 - 💻 Lenguajes: `PHP`, `JavaScript`, `HTML5`, `CSS3`
-- ⚙️ Frameworks: `Laravel`, `Bootstrap`, `jQuery`
+- ⚙️ Frameworks: `Laravel`, `Spring Boot` `Bootstrap`, `jQuery`
 - 🗄️ Bases de datos: `MySQL`
 - 🔌 Backend: `Laravel`, `PDO`, `PHPMailer`
 - 📡 Web: `AJAX`, `JSON`, `APIs REST`
@@ -27,9 +27,10 @@ Soy un **Desarrollador Web Junior** con enfoque y experiencia en **Backend**. Me
 - 🔧 Clean My PDF Text: Herramienta web para limpiar texto extraído de archivos PDF.
 - 🦷 CRM Dental *(en desarrollo)*: Sistema para gestión de pacientes, citas, pagos y recetas médicas para clínicas dentales.
 - 🏡 Inmuebles Web: Sitio web inmobiliario responsive hecho con HTML, CSS, JavaScript y PHP puro.
+- Api Rest de peliculas hecho con Java Spring boot y Mysql
 
 ## 📚 En constante aprendizaje
-- Profundizando en `Laravel`, `componentes reutilizables` y `autenticación`
+- Profundizando en `Laravel`, `Spring`, `componentes reutilizables` y `autenticación`
 - Explorando `Node.js` y otras herramientas del ecosistema backend
 - Mejorando mi lógica de programación y estructura de proyectos
 
