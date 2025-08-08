@@ -3,7 +3,7 @@
 </p>
 
 
-# 👋 ¡Hola! Soy Erick Deps
+# 👋 ¡Hola! Soy Erick.
 
 Soy un **Desarrollador Web Junior** con enfoque y experiencia en **Backend**. Me apasiona construir aplicaciones web útiles, ordenadas y escalables, aplicando buenas prácticas como la arquitectura **Modelo-Vista-Controlador (MVC)**.
 
