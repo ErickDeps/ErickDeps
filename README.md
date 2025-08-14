@@ -9,7 +9,7 @@ Soy un **Desarrollador Web Junior** con enfoque y experiencia en **Backend**. Me
 
 ## 🧰 Tecnologías y herramientas que utilizo
 
-- 💻 Lenguajes: `PHP`, `JavaScript`, `HTML5`, `CSS3`
+- 💻 Lenguajes: `PHP`, `JAVA`, `JavaScript`, `HTML5`, `CSS3`
 - ⚙️ Frameworks: `Laravel`, `Spring Boot` `Bootstrap`, `jQuery`
 - 🗄️ Bases de datos: `MySQL`
 - 🔌 Backend: `Laravel`, `PDO`, `PHPMailer`
