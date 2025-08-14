@@ -22,13 +22,6 @@ Soy un **Desarrollador Web Junior** con enfoque y experiencia en **Backend**. Me
 - Separación lógica entre frontend y backend
 - Seguridad y validación de datos en formularios
 
-## 🚀 Proyectos destacados
-
-- 🔧 Clean My PDF Text: Herramienta web para limpiar texto extraído de archivos PDF.
-- 🦷 CRM Dental *(en desarrollo)*: Sistema para gestión de pacientes, citas, pagos y recetas médicas para clínicas dentales.
-- 🏡 Inmuebles Web: Sitio web inmobiliario responsive hecho con HTML, CSS, JavaScript y PHP puro.
-- Api Rest de peliculas hecho con Java Spring boot y Mysql
-
 ## 📚 En constante aprendizaje
 - Profundizando en `Laravel`, `Spring`, `componentes reutilizables` y `autenticación`
 - Explorando `Node.js` y otras herramientas del ecosistema backend
