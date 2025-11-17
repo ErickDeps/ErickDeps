@@ -30,7 +30,7 @@ Soy un **Desarrollador Web Junior** con enfoque y experiencia en **Backend**. Me
 ## 📫 ¿Cómo contactarme?
 
 - ✉️ Email: erickmanzanarez.dev@gmail.com  
-- 🌐 Portafolio: https://portfolio-erickdeps.netlify.app/ 
+- 🌐 Portafolio: https://erickmanzanarezdev.com 
 - 💼 LinkedIn: www.linkedin.com/in/erickmanzanarezdev
 
 ---
